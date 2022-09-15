@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "CurrencyCalc", "CurrencyCalc\CurrencyCalc.esproj", "{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC38F45E-F5BD-47D3-8D2E-7DE8CC044D91}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAD7618C-290D-46A0-8939-633ECF558C09}
+	EndGlobalSection
+EndGlobal
